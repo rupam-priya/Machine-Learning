@@ -1,5 +1,5 @@
-### Aim: Classify Churn in Bank Data
-Explore REGRESSIONS
+### Aim: 
+Classify Churn in Bank Data- Explore REGRESSIONS
 
 ### Data Source: 
 https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?resource=download&select=Churn_Modelling.csv
