@@ -1,10 +1,6 @@
-TMDB Box Office Predictions
-
-'''
 # Goal is to predict Revenue -- Regression not classification unless we place into buckets 
 # Cannot be a linear model
 # Cannot be binary
-
 '''
 Proposals -- 
 1. Remove belongs_to_collection variable
@@ -184,7 +180,7 @@ Train.Clean <- na.omit(Train.Clean) # drop rows with NA's
 # Methods:
   # Random Forest:
   # Gradient Boosting:
-  # Neural Networks: need more data for NN to be effective
+
 set.seed(1693)
 
 my.df <- Train.Clean
