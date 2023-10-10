@@ -10,3 +10,4 @@ The metadata contain details of over 7000 movies worldwide of TMDB Box Office to
 2. Random Forest Model
 
 ### Process
+The above models were made based on the data split into train and test to find out that boosting model performed better
