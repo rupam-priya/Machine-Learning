@@ -2,7 +2,7 @@
 Classify Churn in Bank Data- Explore REGRESSIONS
 
 ### Data Source: 
-https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?resource=download&select=Churn_Modelling.csv
+https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?resource=download&select=Churn_Modelling.csv <br>
 It is the dataset of a U.S. bank customer for getting the information that, this particular customer will leave bank or not.
 
 ### Models Implemented:
