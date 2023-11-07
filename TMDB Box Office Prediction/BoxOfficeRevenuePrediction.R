@@ -1,6 +1,5 @@
 # Goal is to predict Revenue -- Regression not classification unless we place into buckets 
-# Cannot be a linear model
-# Cannot be binary
+
 '''
 Proposals -- 
 1. Remove belongs_to_collection variable
